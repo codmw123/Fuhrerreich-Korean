@@ -5,25 +5,25 @@
 
 #Mongolian Revolutionary Party
 MON_vanguardist_party:0 "MKN"
-MON_vanguardist_party_long:0 "몽골혁명당" 
+MON_vanguardist_party_long:0 "몽골 혁명당" 
 #Communist party of Mongolia
 MON_collectivist_party:0 "PPM"
 MON_collectivist_party_long:0 "몽골인민당"
 #Socialist Party
 MON_libertarian_socialist_party:0 "사회당"
-MON_libertarian_socialist_party_long:0 "몽골사회당"
+MON_libertarian_socialist_party_long:0 "몽골 사회당"
 #Democratic Party
 MON_social_democrat_party:0 "MPP"
-MON_social_democrat_party_long:0 "몽골진보당"
+MON_social_democrat_party_long:0 "몽골 진보당"
 #Social Liberal Party
 MON_social_liberal_party:0 "사회자유당"
-MON_social_liberal_party_long:0 "몽골사회자유당"
+MON_social_liberal_party_long:0 "몽골 사회자유당"
 #Market Liberal Party
 MON_market_liberal_party:0 "자유당"
-MON_market_liberal_party_long:0 "몽골자유당"
+MON_market_liberal_party_long:0 "몽골 자유당"
 #Social Conservative Party
 MON_social_conservative_party:0 "MTP"
-MON_social_conservative_party_long:0 "몽골전통당"
+MON_social_conservative_party_long:0 "몽골 전통당"
 #Mongolian Unity Party
 MON_authoritarian_democrat_party:0 "대회의"
 MON_authoritarian_democrat_party_long:0 "대회의"
@@ -31,7 +31,7 @@ MON_paternal_autocrat_party:0 "절대주의자"
 MON_paternal_autocrat_party_long:0 "절대주의자"
 #Mongol Restoration Party
 MON_national_populist_party:0 "MRP"
-MON_national_populist_party_long:0 "몽골유신당"
+MON_national_populist_party_long:0 "몽골 유신당"
 #Mongolian Valkist Party
 MON_valkist_party:0 "NYM"
 MON_valkist_party_long:0 "북원 운동"
